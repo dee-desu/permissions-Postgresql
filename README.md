@@ -1,6 +1,6 @@
 # LAB - Class 26
 
-## Project: Sweet_snacks_docker
+## Project: Astartes_project
 
 ### Links and Resources
 
