@@ -19,3 +19,5 @@ i.e.
 - e.g. `python manage.py runserver`
 
 #### How to use your library (where applicable)
+
+### PR: https://github.com/dee-desu/permissions-Postgresql/pull/1
